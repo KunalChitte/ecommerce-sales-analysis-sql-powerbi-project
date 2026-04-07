@@ -1,5 +1,9 @@
 # 📊 Ecommerce Sales Analysis (SQL + Power BI)
+## ⭐ Project Highlights
 
+- Built end-to-end data analysis pipeline using SQL and Power BI  
+- Created interactive dashboard for business decision-making  
+- Delivered actionable insights from raw data  
 ## 🚀 Project Overview
 This project analyzes e-commerce sales data to uncover key business insights related to revenue, customer behavior, and product performance. Using SQL for data analysis and Power BI for visualization, the project provides actionable insights for better decision-making.
 
@@ -23,6 +27,11 @@ This project analyzes e-commerce sales data to uncover key business insights rel
 
 ## 📂 Project Structure
 
+- **data/** → Raw dataset files  
+- **sql/** → SQL queries for analysis  
+- **powerbi/** → Power BI dashboard file (.pbix)  
+- **images/** → Dashboard screenshots  
+- **README.md** → Project documentation  
 ---
 
 ## 📊 Key Analysis Performed
